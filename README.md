@@ -4,15 +4,14 @@ Learning the UI library from the basics with Sketch and BS4 with SCSS
 
 ## Symbols
 
-### Colors
+### Color Palette (bs4-colors)
 
-![First Symbols](assets/first-symbols.jpg)
+![Grays](libraries/bs4-colors/gray.png)
 
-![First Symbols](assets/first-page.jpg)
+![Color](libraries/bs4-colors/color.png)
 
-![BS4 Color Palette](assets/bootstrap-color-palette.jpg)
+![Theme Color](libraries/bs4-colors/theme-color.png)
 
-![Sketch Color Symbols](assets/library-colors.jpg)
 
 ## Author
 
