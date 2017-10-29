@@ -4,9 +4,9 @@ Learning the UI library from the basics with Sketch and BS4 with SCSS
 
 ## Symbols
 
-### Color Palette (bs4-colors)
+### Color Palette (bs4/colors/)
 
-![Color Palette](assets/bs4-colors.jpg)
+![Color Palette](libraries/colors.png)
 
 
 ## Author
