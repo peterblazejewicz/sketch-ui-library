@@ -6,7 +6,11 @@ Learning the UI library from the basics with Sketch and BS4 with SCSS
 
 ### Color Palette (bs4/colors/)
 
-![Color Palette](libraries/colors.png)
+![Color Palette](libraries/Colors.png)
+
+### Typography
+
+![Typography](libraries/Typography.png)
 
 
 ## Author
