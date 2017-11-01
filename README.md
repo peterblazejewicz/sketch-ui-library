@@ -2,6 +2,8 @@
 
 Learning the UI library from the basics with Sketch and BS4 with SCSS
 
+![Docs hero](sketches/docs.jpg)
+
 ## Symbols
 
 ### Color Palette (bs4/colors/)
