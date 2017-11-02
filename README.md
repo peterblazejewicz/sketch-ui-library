@@ -4,6 +4,8 @@ Learning the UI library from the basics with Sketch and BS4 with SCSS
 
 ![Docs hero](sketches/docs.jpg)
 
+![Password Inputs](sketches/password-input.png)
+
 ## Symbols
 
 ### Color Palette (bs4/colors/)
